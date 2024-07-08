@@ -2,9 +2,9 @@
 
 ## Tabla de Contenidos
 
-1. [Configurar Entornos de Desarrollo](#1-configurar-entornos-de-desarrollo-adicional)
+1. [Configurar Entornos de Desarrollo](#1-configurar-entornos-de-desarrollo)
 2. [Proveer Información Prerrequisita](#2-proveer-información-prerrequisita)
-3. [Establecer un Flujo de Trabajo con Git](#3-establecer-un-flujo-de-trabajo-con-git-adicional)
+3. [Establecer un Flujo de Trabajo con Git](#3-establecer-un-flujo-de-trabajo-con-git)
 4. [Escribir Comentarios Claros](#4-escribir-comentarios-claros)
 5. [Usar Docstrings](#5-usar-docstrings)
 6. [Ser Conciso](#6-ser-conciso)
@@ -20,7 +20,7 @@
 16. [Asegurar la Seguridad del Código](#16-asegurar-la-seguridad-del-código-adicional)
 17. [Bibliotecas y Herramientas Disponibles](#17-bibliotecas-y-herramientas-disponibles-adicional)
 
-## 1. Configurar Entornos de Desarrollo (Adicional)
+## 1. Configurar Entornos de Desarrollo
 - **IDEs:** Utiliza IDEs como VS Code, PyCharm o Eclipse según el lenguaje de programación.
 - **Herramientas:** Implementa control de versiones (Git), gestores de paquetes (pip, npm, Maven) y otras herramientas necesarias de desarrollo.
 
@@ -28,7 +28,7 @@
 - **Detalles:** Lista las bibliotecas necesarias, herramientas, lenguajes de programación, requisitos del sistema y guías de resolución de problemas.
 - **Actualizaciones:** Mantén esta información actualizada.
 
-## 3. Establecer un Flujo de Trabajo con Git (Adicional)
+## 3. Establecer un Flujo de Trabajo con Git
 - **Estrategia de Ramas:** Adopta una estrategia de ramas como Git Flow.
 - **Prácticas de Commit:** Escribe mensajes de commit significativos y usa herramientas como Husky para verificaciones previas al commit.
 
