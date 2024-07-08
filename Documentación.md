@@ -1,5 +1,25 @@
 # Guía de Buenas Prácticas para el Desarrollo de Software
 
+## Tabla de Contenidos
+
+1. [Configurar Entornos de Desarrollo](#1-configurar-entornos-de-desarrollo-adicional)
+2. [Proveer Información Prerrequisita](#2-proveer-información-prerrequisita)
+3. [Establecer un Flujo de Trabajo con Git](#3-establecer-un-flujo-de-trabajo-con-git-adicional)
+4. [Escribir Comentarios Claros](#4-escribir-comentarios-claros)
+5. [Usar Docstrings](#5-usar-docstrings)
+6. [Ser Conciso](#6-ser-conciso)
+7. [Adaptar la Documentación](#7-adaptar-la-documentación)
+8. [Utilizar Herramientas de Documentación Automatizadas](#8-utilizar-herramientas-de-documentación-automatizadas)
+9. [Usar Documentación como Código](#9-usar-documentación-como-código-dac)
+10. [Implementar un Proceso de Revisión de Código](#10-implementar-un-proceso-de-revisión-de-código-adicional)
+11. [Configurar Integración Continua/Despliegue Continuo (CI/CD)](#11-configurar-integración-continua-despliegue-continuo-cicd-adicional)
+12. [Automatizar Pruebas](#12-automatizar-pruebas-adicional)
+13. [Actualizar Continuamente](#13-actualizar-continuamente)
+14. [Proveer Capacitación y Onboarding](#14-proveer-capacitación-y-onboarding-adicional)
+15. [Facilitar la Comunicación y Colaboración](#15-facilitar-la-comunicación-y-colaboración-adicional)
+16. [Asegurar la Seguridad del Código](#16-asegurar-la-seguridad-del-código-adicional)
+17. [Bibliotecas y Herramientas Disponibles](#17-bibliotecas-y-herramientas-disponibles-adicional)
+
 ## 1. Configurar Entornos de Desarrollo (Adicional)
 - **IDEs:** Utiliza IDEs como VS Code, PyCharm o Eclipse según el lenguaje de programación.
 - **Herramientas:** Implementa control de versiones (Git), gestores de paquetes (pip, npm, Maven) y otras herramientas necesarias de desarrollo.
